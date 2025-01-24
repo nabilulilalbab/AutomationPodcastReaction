@@ -1,5 +1,3 @@
-Here’s a `README` file for your project `Belajar/char/withreaction`:
-
 ---
 
 # Video Creation with Character Dialogue and Reactions
