@@ -1,0 +1,32 @@
+.env
+venv
+env
+# Bytecode Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE dan editor
+.vscode/
+.idea/
+*.swp
+
+# File log
+*.log
+
+# File konfigurasi
+*.pot
+*.mo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
